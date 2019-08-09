@@ -1,3 +1,3 @@
-# demo
+# CentOS Developer Station
 
-Using only Visual Code
+Using Visual Code and command line
