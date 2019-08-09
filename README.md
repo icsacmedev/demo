@@ -1,3 +1,3 @@
 # demo
 
-Using only command line
+Using only Visual Code
